@@ -8,4 +8,6 @@ Create a Jupyter Notebook using any platform that you are comfortable with and d
 Write some markdown to explain that this notebook will be mainly used for the capstone project. Import the pandas library as pd. Import the Numpy library as np. Print the following the statement: Hello Capstone Project Course!
 
 Push the Notebook to your Github repository and submit a link to the notebook on your Github reposistory
-# print('hello world')
+# import pandas as pd
+# import numpy as np
+# print("Hello Capstone Project Course!")
