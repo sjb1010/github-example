@@ -1,0 +1,37 @@
+1. Introduction:
+
+
+
+The restauraunt Business Is one of the meanest cut throat business's in the world as of today. 
+There are so many competing establishments that it's almost impossible for store owners to 
+keep there doors open. Through the healp of data I will hopefully show how owners can use
+this tool of pulling data so they can keep their new store open for many years to come in the 
+future by opening there establishments in the wealthiest and most pupulous area in toronto.
+
+2. Data Acquisition
+
+I took my data from an online consensus from 2016.
+
+https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#8c732154-5012-9afe-d0cd-ba3ffc813d5a 
+
+
+3. Exploratorty Data Analysis and Results
+
+Through the data of the 2016 toronto concensus I have found a variety of options for cities to open
+a restauraunt. On the one hand i found that not neccesarrily did the city with the most people had the greatest amount of income.
+Suprisingly Bridle Path-Sunnybrook-York Mills which has	9,266 people put out a whopping	$308,010 whereas cities like 
+Rouge had 46,496 people and put out a miniscule	$39,556. Therefore if the store owners wanted to move they didnt have to worry
+about how many people would be coming into their estabnlishments but rather the consumption intake.
+
+4. Discussion section
+
+From the data I Collected I actually noticed that a popultation size of 20,000 or less actually had an average income
+of 100,000 to 150,000. This is very surprising because the cities with larger populous wouldve been a terribble investment
+on the owners behalf. Its very interesting how from simple data census it could save the welfare of these businness owners.
+
+5. Conclusion
+
+On conclusion using simple data extraction such as income and populous size in toronto would help
+make restauraunt establishments not only last longer but rake in the dough.
+
+ 
